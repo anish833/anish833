@@ -17,5 +17,5 @@ I love writing and breaking code , creating new tools and explore
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Generic badge](https://img.shields.io/badge/ETHICAL-HACKER-<COLOR>.svg)
 
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/anish833/anish833/master/assets/thm_propic.png)
 
