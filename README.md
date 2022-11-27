@@ -13,7 +13,7 @@ I love writing and breaking code , creating new tools and explore
  - :airplane: I love travel , food and adventure. ***I save money - I spend it on experiences!***
  
 ***My Blogs***
-- Blog 1 :  ![How Wanna Cry Encrypts your Files](https://anishbhowmick833.medium.com/how-wanna-cry-encrypts-your-files-fab16978195)
+- Blog 1 :  [How Wanna Cry Encrypts your Files](https://anishbhowmick833.medium.com/how-wanna-cry-encrypts-your-files-fab16978195)
 - Blog 2 :  ![Access Denied](https://anishbhowmick833.medium.com/access-denied-3c9c658579c9)
 - Blog 3 :  ![The Most Vulnerable Asset](https://anishbhowmick833.medium.com/the-most-vulnerable-asset-ba89bddc8f6d)
 - Blog 4 :  ![Currency of Resistance](https://anishbhowmick833.medium.com/currency-of-resistance-c0ca9041186)
