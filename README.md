@@ -23,4 +23,4 @@ I love writing and breaking code , creating new tools and explore
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Generic badge](https://img.shields.io/badge/ETHICAL-HACKER-<COLOR>.svg)
 
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/anish833.png)                  ![Hacktheboox stats](http://www.hackthebox.eu/badge/image/319450)
+![tryhackme stat](https://tryhackme-badges.s3.amazonaws.com/anish833.png)                  ![Hacktheboox stats](http://www.hackthebox.eu/badge/image/319450)
