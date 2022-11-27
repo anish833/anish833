@@ -14,14 +14,13 @@ I love writing and breaking code , creating new tools and explore
  
 ***My Blogs***
 - Blog 1 :  [How Wanna Cry Encrypts your Files](https://anishbhowmick833.medium.com/how-wanna-cry-encrypts-your-files-fab16978195)
-- Blog 2 :  ![Access Denied](https://anishbhowmick833.medium.com/access-denied-3c9c658579c9)
-- Blog 3 :  ![The Most Vulnerable Asset](https://anishbhowmick833.medium.com/the-most-vulnerable-asset-ba89bddc8f6d)
-- Blog 4 :  ![Currency of Resistance](https://anishbhowmick833.medium.com/currency-of-resistance-c0ca9041186)
-- Blog 5 :  ![Beyond Dark Web](https://anishbhowmick833.medium.com/beyond-dark-web-6412bced6451)
-- Blog 6 :  ![Privacy is Dead](https://anishbhowmick833.medium.com/privacy-is-dead-d64ae39d34aa)
+- Blog 2 :  [Access Denied](https://anishbhowmick833.medium.com/access-denied-3c9c658579c9)
+- Blog 3 :  [The Most Vulnerable Asset](https://anishbhowmick833.medium.com/the-most-vulnerable-asset-ba89bddc8f6d)
+- Blog 4 :  [Currency of Resistance](https://anishbhowmick833.medium.com/currency-of-resistance-c0ca9041186)
+- Blog 5 :  [Beyond Dark Web](https://anishbhowmick833.medium.com/beyond-dark-web-6412bced6451)
+- Blog 6 :  [Privacy is Dead](https://anishbhowmick833.medium.com/privacy-is-dead-d64ae39d34aa)
  
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Generic badge](https://img.shields.io/badge/ETHICAL-HACKER-<COLOR>.svg)
 
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/anish833.png)                  ![Hacktheboox stats](http://www.hackthebox.eu/badge/image/319450)
-
+[tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/anish833.png)                  [Hacktheboox stats](http://www.hackthebox.eu/badge/image/319450)
