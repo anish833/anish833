@@ -19,6 +19,8 @@ I love writing and breaking code , creating new tools and explore
 - Blog 4 :  [Currency of Resistance](https://anishbhowmick833.medium.com/currency-of-resistance-c0ca9041186)
 - Blog 5 :  [Beyond Dark Web](https://anishbhowmick833.medium.com/beyond-dark-web-6412bced6451)
 - Blog 6 :  [Privacy is Dead](https://anishbhowmick833.medium.com/privacy-is-dead-d64ae39d34aa)
+
+Read More on - https://anish833.github.com
  
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Generic badge](https://img.shields.io/badge/ETHICAL-HACKER-<COLOR>.svg)
