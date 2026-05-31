@@ -70,6 +70,16 @@ Status  :  [ ████████░░ ] perpetually learning — that's th
 
 ---
 
+## `> cat ./open_source`
+
+> contributed to production security infrastructure used by enterprises worldwide.
+
+| 🏢 Project | 📌 Contribution | 🔗 |
+|---|---|---|
+| **Microsoft Azure Sentinel** | Authored & merged a detection rule — KQL hunting query to identify **potentially malicious VSCode extensions** on user systems | [PR #11395](https://github.com/Azure/Azure-Sentinel/pull/11395) |
+
+---
+
 ## `> ./stats --user anish833`
 
 <div align="center">
