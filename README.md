@@ -77,6 +77,7 @@ Status  :  [ ████████░░ ] perpetually learning — that's th
 | 🏢 Project | 📌 Contribution | 🔗 |
 |---|---|---|
 | **Microsoft Azure Sentinel** | Authored & merged a detection rule — KQL hunting query to identify **potentially malicious VSCode extensions** on user systems | [PR #11395](https://github.com/Azure/Azure-Sentinel/pull/11395) |
+| **cram** | Reported a **symbolic-link handling vulnerability** in file extraction; publicly credited as the reporter | [Published Security Advisory](https://github.com/lukr54/cram/security/advisories/GHSA-4cpf-7hxr-73q2) |
 
 ---
 
